@@ -371,6 +371,8 @@ body {
   width: 56px;
   height: 56px;
   margin-left: 10px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 .navbar .navbar-nav .nav-link {
